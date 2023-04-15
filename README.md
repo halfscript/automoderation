@@ -46,7 +46,7 @@ Then, open terminal and enter `node .`
 
 Go to [Replit](https://repl.it/), and click to `Create Repl` button, then click to `Insert from Github` and paste the following link: `https://github.com/halfscript/automoderation.git`
 
-After that, go to the "Secrets" tab, enter your OpenAI API and Discord Bot Token in the "API_KEY" and "TOKEN" keys.
+After that, go to the "Secrets" tab, create the "API_KEY" and "TOKEN" keys and enter your OpenAI Key and Discord Bot Token into these tokens.
 
 Next, press `Run`.
 
