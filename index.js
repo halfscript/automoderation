@@ -19,7 +19,7 @@ client.on("ready", () => {
 
 })
 
-cclient.on("messageCreate", async (message) => {
+client.on("messageCreate", async (message) => {
     if (message.channel.type === "DM") return;
 
     try {
